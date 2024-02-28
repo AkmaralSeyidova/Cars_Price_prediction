@@ -9,7 +9,7 @@ st.header("Predict the Price of Your Car")
 # Subheader
 st.subheader("Learn the value of your car using this application.")
 
-st.image("car_img.jpg", caption="Blue Car", width=400)
+st.image("car.jpeg", caption="Blue Car", width=400)
 
 st.write("You can see the estimated market value of the car you are interested in below.")
 
