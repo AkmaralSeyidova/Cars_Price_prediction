@@ -13,7 +13,7 @@ st.image("car_img.jpg", caption="Blue Car", width=400)
 
 st.write("You can see the estimated market value of the car you are interested in below.")
 
-columns = joblib.load("features_list.joblib")
+#columns = joblib.load("features_list.joblib")
 
 min_year = 2003
 max_year = 2018
